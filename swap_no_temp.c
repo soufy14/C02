@@ -2,7 +2,7 @@
 
 int main() {
 
-    int a, b;
+    int a = 0, b = 0;
 
    scanf("%d %d", &a, &b); // lire entre de l'utilisateur
 // Inversion sans variable temporaire
