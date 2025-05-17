@@ -7,10 +7,10 @@ int main() {
 // la condition qui permet de diviser par  2
     if ( nombre % 2 == 0 ) {
     
-    printf("%d est pair\n", nombre);
+        printf("%d est pair.\n", nombre);
     } else {
         
-        printf("%d est impair\n", nombre);
+        printf("%d est impair.\n", nombre);
     }
     return 0; 
 }
